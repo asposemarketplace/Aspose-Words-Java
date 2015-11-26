@@ -11,10 +11,6 @@ Aspose.Words for Java is a class library that enables your applications to perfo
   </a>
 </p>
 
-Directory | Description
---------- | -----------
-[Examples](https://github.com/asposemarketplace/Aspose-Words-Java/)  | A collection of Java examples that help you learn the product features
-
 ## Resources
 
 + **Website:** [www.aspose.com](http://www.aspose.com)
